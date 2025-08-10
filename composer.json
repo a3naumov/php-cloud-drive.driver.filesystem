@@ -1,0 +1,24 @@
+{
+    "name": "a3naumov/cloud-drive-driver-filesystem",
+    "description": "PHP Cloud Drive - Driver Filesystem",
+    "type": "library",
+    "version": "1.0.0",
+    "require": {
+        "php": "^8.3",
+        "a3naumov/cloud-drive-contract": "dev-main"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "A3Naumov\\CloudDriveDriverFilesystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Artem Naumov",
+            "email": "naumovartem272@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
