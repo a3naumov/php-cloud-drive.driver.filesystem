@@ -5,7 +5,8 @@
     "version": "1.0.0",
     "require": {
         "php": "^8.3",
-        "a3naumov/cloud-drive-contract": "dev-main"
+        "a3naumov/cloud-drive-contract": "dev-main",
+        "symfony/filesystem": "7.3.*"
     },
     "license": "MIT",
     "autoload": {
